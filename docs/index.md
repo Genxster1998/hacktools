@@ -29,7 +29,7 @@
   - HibernationFixup -- Last update in Wed Apr 22 11:05:11 2020 +0200
     - [HibernationFixup-1.3.3-DEBUG.zip](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Kexts/HibernationFixup/HibernationFixup-1.3.3-DEBUG.zip)
     - [HibernationFixup-1.3.3-RELEASE.zip](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Kexts/HibernationFixup/HibernationFixup-1.3.3-RELEASE.zip)
-  - IntelBluetoothFirmware -- Last update in Wed Apr 1 22:47:05 2020
+  - IntelBluetoothFirmware -- Last update in Wed Apr 1 22:47:05 2020 +0800
     - [IntelBluetoothFirmware-1.0.3-RELEASE.zip](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Kexts/IntelBluetoothFirmware/IntelBluetoothFirmware-1.0.3-RELEASE.zip)
   - IntelMausi -- Last update in Tue Mar 24 08:43:54 2020 +0300
     - [IntelMausi-1.0.2-DEBUG.zip](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Kexts/IntelMausi/IntelMausi-1.0.2-DEBUG.zip)
