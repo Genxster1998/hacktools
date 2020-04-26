@@ -66,7 +66,7 @@
   - VoodooInput -- Last update in Sat Apr 25 15:19:32 2020 +0200
     - [VoodooInput-1.0.5-DEBUG.zip](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Kexts/VoodooInput/VoodooInput-1.0.5-DEBUG.zip)
     - [VoodooInput-1.0.5-RELEASE.zip](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Kexts/VoodooInput/VoodooInput-1.0.5-RELEASE.zip)
-  - VoodooPS2Controller -- Last update in 
+  - VoodooPS2Controller -- Last update in Thu Apr 23 21:27:39 2020 +0300
     - [VoodooPS2Controller-2.1.4-DEBUG.zip](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Kexts/VoodooPS2Controller/VoodooPS2Controller-2.1.4-DEBUG.zip)
     - [VoodooPS2Controller-2.1.4-RELEASE.zip](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Kexts/VoodooPS2Controller/VoodooPS2Controller-2.1.4-RELEASE.zip)
   - WhateverGreen -- Last update in Fri Apr 24 06:07:01 2020 -0400
