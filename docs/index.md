@@ -1,41 +1,59 @@
 - OpenCorePkg
   - [OpenCore-0.5.8-DEBUG.zip](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/OpenCorePkg/OpenCore-0.5.8-DEBUG.zip)
-  - [OpenCore-0.5.8-Noopt.zip](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/OpenCorePkg/OpenCore-0.5.8-Noopt.zip)
   - [OpenCore-0.5.8-RELEASE.zip](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/OpenCorePkg/OpenCore-0.5.8-RELEASE.zip)
 - CLOVER
   - [Clover_r5114.pkg](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Clover/Clover_r5114.pkg)
 - Kexts
   - ATH9KFixup
-    - [ATH9KFixup](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Kexts/ATH9KFixup/ATH9KFixup-1.3.3-DEBUG.zip)
+    - [ATH9KFixup](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Kexts/ATH9KFixup/ATH9KFixup-1.3.3-RELEASE.zip)
   - AirportBrcmFixup
-    - [AirportBrcmFixup](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Kexts/AirportBrcmFixup/AirportBrcmFixup-2.0.6-RELEASE.zip)
+    - [AirportBrcmFixup](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Kexts/AirportBrcmFixup/AirportBrcmFixup-2.0.7-RELEASE.zip)
   - AppleALC
     - [AppleALC](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Kexts/AppleALC/AppleALC-1.4.8-RELEASE.zip)
   - BT4LEContinuityFixup
+    - [BT4LEContinuityFixup](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Kexts/BT4LEContinuityFixup/BT4LEContinuityFixup-1.1.4-RELEASE.zip)
   - BrcmPatchRAM
     - [BrcmPatchRAM](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Kexts/BrcmPatchRAM/BrcmPatchRAM-2.5.3-RELEASE.zip)
   - CPUFriend
+    - [CPUFriend](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Kexts/CPUFriend/CPUFriend-1.2.0-RELEASE.zip)
   - DebugEnhancer
+    - [DebugEnhancer](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Kexts/DebugEnhancer/DebugEnhancer-1.0.0-RELEASE.zip)
   - DiskArbitrationFixup
+    - [DiskArbitrationFixup](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Kexts/DiskArbitrationFixup/DiskArbitrationFixup-1.0.0-RELEASE.zip)
   - HibernationFixup
+    - [HibernationFixup](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Kexts/HibernationFixup/HibernationFixup-1.3.3-RELEASE.zip)
   - IntelBluetoothFirmware
+    - [IntelBluetoothFirmware](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Kexts/IntelBluetoothFirmware/IntelBluetoothFirmware-1.0.3-RELEASE.zip)
   - IntelMausi
+    - [IntelMausi](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Kexts/IntelMausi/IntelMausi-1.0.2-RELEASE.zip)
   - IntelMausiEthernet
+    - [IntelMausiEthernet](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Kexts/IntelMausiEthernet/IntelMausiEthernet-2.5.1d1.zip)
   - Lilu
+    - [Lilu](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Kexts/Lilu/Lilu-1.4.4-RELEASE.zip)
   - LucyRTL8125Ethernet
+    - [LucyRTL8125Ethernet](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Kexts/LucyRTL8125Ethernet/LucyRTL8125Ethernet-1.0.0d3-RELEASE.zip)
   - MacProMemoryNotificationDisabler
+    - [MacProMemoryNotificationDisabler](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Kexts/MacProMemoryNotificationDisabler/MacProMemoryNotificationDisabler-1.0.0-RELEASE.zip)
   - NVMeFix
+    - [NVMeFix](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Kexts/NVMeFix/NVMeFix-1.0.2-RELEASE.zip)
   - NoTouchID
-  - OcQuirks
+    - [NoTouchID](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Kexts/NoTouchID/NoTouchID-1.0.3-RELEASE.zip)
   - RTCMemoryFixup
+    - [RTCMemoryFixup](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Kexts/RTCMemoryFixup/RTCMemoryFixup-1.0.5-RELEASE.zip)
   - SystemProfilerMemoryFixup
+    - [SystemProfilerMemoryFixup](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Kexts/SystemProfilerMemoryFixup/SystemProfilerMemoryFixup-1.0.0-RELEASE.zip)
   - ThunderboltReset
+    - [ThunderboltReset](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Kexts/ThunderboltReset/ThunderboltReset-1.0.0d1-RELEASE.zip)
   - VirtualSMC
+    - [VirtualSMC](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Kexts/VirtualSMC/VirtualSMC-1.1.3-RELEASE.zip)
   - VoodooI2C
+    - [VoodooI2C](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Kexts/VoodooI2C/VoodooI2C-2.4.1.zip)
   - VoodooInput
+    - [VoodooInput](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Kexts/VoodooInput/VoodooInput-1.0.5-RELEASE.zip)
   - VoodooPS2Controller
     - [VoodooPS2Controller](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Kexts/VoodooPS2Controller/VoodooPS2Controller-2.1.4-RELEASE.zip)
   - WhateverGreen
+    - [WhateverGreen](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Kexts/WhateverGreen/WhateverGreen-1.3.9-RELEASE.zip)
 - Software
   - Clover Configurator
     - [Clover Configurator v5.11.0.0.dmg](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Software/Clover Configurator/Clover Configurator v5.11.0.0.dmg)
