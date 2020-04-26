@@ -1,7 +1,57 @@
-| 分类                                                         |
-| ------------------------------------------------------------ |
-| [OpenCore](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/OpenCore/index.html) |
-| [CLOVER](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/CLOVER/index.html) |
-| [Kexts](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Kexts/index.html) |
-| [Software](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Software/index.html) |
-
+- OpenCorePkg
+  - [OpenCore-0.5.8-DEBUG.zip](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/OpenCorePkg/OpenCore-0.5.8-DEBUG.zip)
+  - [OpenCore-0.5.8-Noopt.zip](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/OpenCorePkg/OpenCore-0.5.8-Noopt.zip)
+  - [OpenCore-0.5.8-RELEASE.zip](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/OpenCorePkg/OpenCore-0.5.8-RELEASE.zip)
+- CLOVER
+  - [Clover_r5114.pkg](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Clover/Clover_r5114.pkg)
+- Kexts
+  - ATH9KFixup
+    - [ATH9KFixup](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Kexts/ATH9KFixup/ATH9KFixup-1.3.3-DEBUG.zip)
+  - AirportBrcmFixup
+    - [AirportBrcmFixup](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Kexts/AirportBrcmFixup/AirportBrcmFixup-2.0.6-RELEASE.zip)
+  - AppleALC
+    - [AppleALC](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Kexts/AppleALC/AppleALC-1.4.8-RELEASE.zip)
+  - BT4LEContinuityFixup
+  - BrcmPatchRAM
+    - [BrcmPatchRAM](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Kexts/BrcmPatchRAM/BrcmPatchRAM-2.5.3-RELEASE.zip)
+  - CPUFriend
+  - DebugEnhancer
+  - DiskArbitrationFixup
+  - HibernationFixup
+  - IntelBluetoothFirmware
+  - IntelMausi
+  - IntelMausiEthernet
+  - Lilu
+  - LucyRTL8125Ethernet
+  - MacProMemoryNotificationDisabler
+  - NVMeFix
+  - NoTouchID
+  - OcQuirks
+  - RTCMemoryFixup
+  - SystemProfilerMemoryFixup
+  - ThunderboltReset
+  - VirtualSMC
+  - VoodooI2C
+  - VoodooInput
+  - VoodooPS2Controller
+    - [VoodooPS2Controller](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Kexts/VoodooPS2Controller/VoodooPS2Controller-2.1.4-RELEASE.zip)
+  - WhateverGreen
+- Software
+  - Clover Configurator
+    - [Clover Configurator v5.11.0.0.dmg](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Software/Clover Configurator/Clover Configurator v5.11.0.0.dmg)
+  - Downie
+    - [Downie v4.0.8.dmg](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Software/Downie/Downie v4.0.8.dmg)
+  - Hackintool
+    - [Hackintool v3.4.0.dmg](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Software/Hackintool/Hackintool v3.4.0.dmg)
+  - Jump Desktop
+    - [Jump Desktop v8.5.10.dmg](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Software/Jump Desktop/Jump Desktop v8.5.10.dmg)
+  - Navicat Premium
+    - [Navicat Premium v15.0.14.dmg](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Software/Navicat Premium/Navicat Premium v15.0.14.dmg)
+  - OpenCore Configurator
+    - [OpenCore Configurator v2.0.0.0.dmg](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Software/OpenCore Configurator/OpenCore Configurator v2.0.0.0.dmg)
+  - PicGo
+    - [PicGo v2.2.2.dmg](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Software/PicGo/PicGo v2.2.2.dmg)
+  - Sound Control
+    - [Sound Control v2.4.3.dmg](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Software/Sound Control/Sound Control v2.4.3.dmg)
+  - Tuxera
+    - [Tuxera v2019.dmg](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Software/Tuxera/Tuxera v2019.dmg)
