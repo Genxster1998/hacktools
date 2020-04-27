@@ -1,8 +1,9 @@
-- OpenCorePkg -- Sun Apr 26 12:25:21 2020 +0300
+- OpenCorePkg -- Mon Apr 27 02:52:40 2020 +0300
   - [OpenCore-0.5.8-DEBUG.zip](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/OpenCorePkg/OpenCore-0.5.8-DEBUG.zip)
   - [OpenCore-0.5.8-Noopt.zip](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/OpenCorePkg/OpenCore-0.5.8-Noopt.zip)
   - [OpenCore-0.5.8-RELEASE.zip](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/OpenCorePkg/OpenCore-0.5.8-RELEASE.zip)
-- CLOVER -- Sun Apr 26 12:25:21 2020 +0300
+- CLOVER -- Mon Apr 27 02:52:40 2020 +0300
+  - [Clover.app_v1.19.pkg](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Clover/Clover.app_v1.19.pkg)
   - [Clover_r5114.pkg](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Clover/Clover_r5114.pkg)
 - Kexts
   - ATH9KFixup -- Sat Feb 16 19:50:54 2019 -0500
@@ -64,7 +65,7 @@
   - VoodooI2C -- Sat Apr 25 17:31:18 2020 +0300
     - [VoodooI2C-2.4.1.zip](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Kexts/VoodooI2C/VoodooI2C-2.4.1.zip)
     - [VoodooI2C-Debug-Symbols-2.4.1.zip](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Kexts/VoodooI2C/VoodooI2C-Debug-Symbols-2.4.1.zip)
-  - VoodooInput -- Sat Apr 25 15:19:32 2020 +0200
+  - VoodooInput -- Sun Apr 26 21:24:46 2020 -0400
     - [VoodooInput-1.0.5-DEBUG.zip](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Kexts/VoodooInput/VoodooInput-1.0.5-DEBUG.zip)
     - [VoodooInput-1.0.5-RELEASE.zip](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Kexts/VoodooInput/VoodooInput-1.0.5-RELEASE.zip)
   - VoodooPS2Controller -- Thu Apr 23 21:27:39 2020 +0300
