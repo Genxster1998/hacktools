@@ -2,7 +2,7 @@
   - [OpenCore-0.5.8-DEBUG.zip](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/OpenCorePkg/OpenCore-0.5.8-DEBUG.zip)
   - [OpenCore-0.5.8-Noopt.zip](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/OpenCorePkg/OpenCore-0.5.8-Noopt.zip)
   - [OpenCore-0.5.8-RELEASE.zip](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/OpenCorePkg/OpenCore-0.5.8-RELEASE.zip)
-- CLOVER -- 
+- CLOVER -- 2020-4-28
   - [Clover.app_v1.19.pkg](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Clover/Clover.app_v1.19.pkg)
   - [Clover_r5114.pkg](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Clover/Clover_r5114.pkg)
 - Kexts
@@ -77,22 +77,35 @@
     - [WhateverGreen-1.3.9-DEBUG.zip](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Kexts/WhateverGreen/WhateverGreen-1.3.9-DEBUG.zip)
     - [WhateverGreen-1.3.9-RELEASE.zip](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Kexts/WhateverGreen/WhateverGreen-1.3.9-RELEASE.zip)
 - Software
+  - CPUS
+    - [CPU-S v4.1.dmg](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Software/CPUS/CPU-S v4.1.dmg)
   - Clover Configurator
     - [Clover Configurator v5.11.0.0.dmg](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Software/Clover Configurator/Clover Configurator v5.11.0.0.dmg)
-  - Downie
-    - [Downie v4.0.8.dmg](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Software/Downie/Downie v4.0.8.dmg)
+  - GenI2C
+    - [GenI2C v1.3.1.dmg](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Software/GenI2C/GenI2C v1.3.1.dmg)
   - Hackintool
     - [Hackintool v3.4.0.dmg](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Software/Hackintool/Hackintool v3.4.0.dmg)
-  - Jump Desktop
-    - [Jump Desktop v8.5.10.dmg](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Software/Jump Desktop/Jump Desktop v8.5.10.dmg)
-  - Navicat Premium
-    - [Navicat Premium v15.0.14.dmg](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Software/Navicat Premium/Navicat Premium v15.0.14.dmg)
+  - IOJones
+    - [IOJones v1.2.2.dmg](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Software/IOJones/IOJones v1.2.2.dmg)
+  - IORegistryExplorer
+    - [IORegistryExplorer v3.0.2.dmg](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Software/IORegistryExplorer/IORegistryExplorer v3.0.2.dmg)
+  - MaciASL
+    - [MaciASL v1.5.7.dmg](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Software/MaciASL/MaciASL v1.5.7.dmg)
+  - Mos
+    - [Mos v2.4.0.dmg](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Software/Mos/Mos v2.4.0.dmg)
+  - NoSleep
+    - [NoSleep v1.1.1.dmg](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Software/NoSleep/NoSleep v1.1.1.dmg)
   - OpenCore Configurator
     - [OpenCore Configurator v2.0.0.0.dmg](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Software/OpenCore Configurator/OpenCore Configurator v2.0.0.0.dmg)
-  - PicGo
-    - [PicGo v2.2.2.dmg](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Software/PicGo/PicGo v2.2.2.dmg)
-  - Sound Control
-    - [Sound Control v2.4.3.dmg](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Software/Sound Control/Sound Control v2.4.3.dmg)
+  - PlistEdit Pro
+    - [PlistEdit Pro v1.9.1.dmg](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Software/PlistEdit Pro/PlistEdit Pro v1.9.1.dmg)
   - Tuxera
     - [Tuxera v2019.dmg](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Software/Tuxera/Tuxera v2019.dmg)
+  - shadowsocks
+    - [ShadowsocksX-NG v1.9.4.dmg](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Software/shadowsocks/ShadowsocksX-NG v1.9.4.dmg)
   - v2ray
+    - [Qv2ray v2.5.0.dmg](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Software/v2ray/Qv2ray v2.5.0.dmg)
+    - [V2rayU v2.1.0.dmg](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Software/v2ray/V2rayU v2.1.0.dmg)
+    - [qv2ray v2.5.0.exe](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Software/v2ray/qv2ray v2.5.0.exe)
+    - [v2ray-macos.zip](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Software/v2ray/v2ray-macos.zip)
+    - [v2ray-windows-64.zip](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Software/v2ray/v2ray-windows-64.zip)
