@@ -1,8 +1,10 @@
-- OpenCorePkg -- 2020-4-27
+- OpenCorePkg -- 2020-4-28
   - [OpenCore-0.5.8-DEBUG.zip](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/OpenCorePkg/OpenCore-0.5.8-DEBUG.zip)
   - [OpenCore-0.5.8-Noopt.zip](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/OpenCorePkg/OpenCore-0.5.8-Noopt.zip)
   - [OpenCore-0.5.8-RELEASE.zip](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/OpenCorePkg/OpenCore-0.5.8-RELEASE.zip)
 - CLOVER -- 2020-4-28
+-gSettings.ReleaseDate;-
+-gSettings.ReleaseDate;-
   - [Clover.app_v1.19.pkg](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Clover/Clover.app_v1.19.pkg)
   - [Clover_r5114.pkg](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Clover/Clover_r5114.pkg)
 - Kexts
