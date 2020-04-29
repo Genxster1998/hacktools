@@ -42,8 +42,6 @@
     - [Lilu-1.4.4-DEBUG.zip](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Kexts/Lilu/Lilu-1.4.4-DEBUG.zip)
     - [Lilu-1.4.4-RELEASE.zip](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Kexts/Lilu/Lilu-1.4.4-RELEASE.zip)
   - LucyRTL8125Ethernet -- 2020-4-27
-    - [LucyRTL8125Ethernet-1.0.0d3-DEBUG.zip](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Kexts/LucyRTL8125Ethernet/LucyRTL8125Ethernet-1.0.0d3-DEBUG.zip)
-    - [LucyRTL8125Ethernet-1.0.0d3-RELEASE.zip](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Kexts/LucyRTL8125Ethernet/LucyRTL8125Ethernet-1.0.0d3-RELEASE.zip)
     - [LucyRTL8125Ethernet-1.0.0d4-DEBUG.zip](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Kexts/LucyRTL8125Ethernet/LucyRTL8125Ethernet-1.0.0d4-DEBUG.zip)
     - [LucyRTL8125Ethernet-1.0.0d4-RELEASE.zip](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Kexts/LucyRTL8125Ethernet/LucyRTL8125Ethernet-1.0.0d4-RELEASE.zip)
   - MacProMemoryNotificationDisabler -- 2020-4-6
@@ -65,8 +63,8 @@
     - [VirtualSMC-1.1.3-DEBUG.zip](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Kexts/VirtualSMC/VirtualSMC-1.1.3-DEBUG.zip)
     - [VirtualSMC-1.1.3-RELEASE.zip](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Kexts/VirtualSMC/VirtualSMC-1.1.3-RELEASE.zip)
   - VoodooI2C -- 2020-4-28
-    - [VoodooI2C-2.4.1.zip](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Kexts/VoodooI2C/VoodooI2C-2.4.1.zip)
-    - [VoodooI2C-Debug-Symbols-2.4.1.zip](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Kexts/VoodooI2C/VoodooI2C-Debug-Symbols-2.4.1.zip)
+    - [VoodooI2C-2.4.2.zip](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Kexts/VoodooI2C/VoodooI2C-2.4.2.zip)
+    - [VoodooI2C-Debug-Symbols-2.4.2.zip](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Kexts/VoodooI2C/VoodooI2C-Debug-Symbols-2.4.2.zip)
   - VoodooInput -- 2020-4-26
     - [VoodooInput-1.0.5-DEBUG.zip](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Kexts/VoodooInput/VoodooInput-1.0.5-DEBUG.zip)
     - [VoodooInput-1.0.5-RELEASE.zip](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Kexts/VoodooInput/VoodooInput-1.0.5-RELEASE.zip)
