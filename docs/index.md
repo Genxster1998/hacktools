@@ -2,9 +2,7 @@
   - [OpenCore-0.5.8-DEBUG.zip](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/OpenCorePkg/OpenCore-0.5.8-DEBUG.zip)
   - [OpenCore-0.5.8-Noopt.zip](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/OpenCorePkg/OpenCore-0.5.8-Noopt.zip)
   - [OpenCore-0.5.8-RELEASE.zip](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/OpenCorePkg/OpenCore-0.5.8-RELEASE.zip)
-- CLOVER -- 2020-4-28
--gSettings.ReleaseDate;-
--gSettings.ReleaseDate;-
+- CLOVER -- 2020-4-29
   - [Clover.app_v1.19.pkg](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Clover/Clover.app_v1.19.pkg)
   - [Clover_r5114.pkg](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Clover/Clover_r5114.pkg)
 - Kexts
@@ -66,7 +64,7 @@
   - VirtualSMC -- 2020-4-19
     - [VirtualSMC-1.1.3-DEBUG.zip](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Kexts/VirtualSMC/VirtualSMC-1.1.3-DEBUG.zip)
     - [VirtualSMC-1.1.3-RELEASE.zip](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Kexts/VirtualSMC/VirtualSMC-1.1.3-RELEASE.zip)
-  - VoodooI2C -- 2020-4-27
+  - VoodooI2C -- 2020-4-28
     - [VoodooI2C-2.4.1.zip](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Kexts/VoodooI2C/VoodooI2C-2.4.1.zip)
     - [VoodooI2C-Debug-Symbols-2.4.1.zip](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Kexts/VoodooI2C/VoodooI2C-Debug-Symbols-2.4.1.zip)
   - VoodooInput -- 2020-4-26
