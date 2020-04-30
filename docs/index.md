@@ -1,10 +1,12 @@
-- OpenCorePkg -- 2020-4-28
+- OpenCorePkg -- 2020-4-29
   - [OpenCore-0.5.8-DEBUG.zip](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/OpenCorePkg/OpenCore-0.5.8-DEBUG.zip)
   - [OpenCore-0.5.8-Noopt.zip](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/OpenCorePkg/OpenCore-0.5.8-Noopt.zip)
   - [OpenCore-0.5.8-RELEASE.zip](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/OpenCorePkg/OpenCore-0.5.8-RELEASE.zip)
 - CLOVER -- 2020-4-29
   - [Clover.app_v1.19.pkg](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Clover/Clover.app_v1.19.pkg)
+  - [Clover.app_v1.20.pkg](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Clover/Clover.app_v1.20.pkg)
   - [Clover_r5114.pkg](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Clover/Clover_r5114.pkg)
+  - [Clover_r5115.pkg](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Clover/Clover_r5115.pkg)
 - Kexts
   - ATH9KFixup -- 2019-2-16
     - [ATH9KFixup-1.3.3-RELEASE.zip](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Kexts/ATH9KFixup/ATH9KFixup-1.3.3-RELEASE.zip)
