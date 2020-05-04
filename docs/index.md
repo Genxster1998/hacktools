@@ -11,9 +11,13 @@
   - AirportBrcmFixup -- 2020-4-24
     - [AirportBrcmFixup-2.0.7-DEBUG.zip](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Kexts/AirportBrcmFixup/AirportBrcmFixup-2.0.7-DEBUG.zip)
     - [AirportBrcmFixup-2.0.7-RELEASE.zip](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Kexts/AirportBrcmFixup/AirportBrcmFixup-2.0.7-RELEASE.zip)
-  - AppleALC -- 2020-4-2
+  - AppleALC -- 2020-5-4
     - [AppleALC-1.4.8-DEBUG.zip](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Kexts/AppleALC/AppleALC-1.4.8-DEBUG.zip)
     - [AppleALC-1.4.8-RELEASE.zip](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Kexts/AppleALC/AppleALC-1.4.8-RELEASE.zip)
+    - [AppleALC-1.4.9-DEBUG.zip](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Kexts/AppleALC/AppleALC-1.4.9-DEBUG.zip)
+    - [AppleALC-1.4.9-RELEASE.zip](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Kexts/AppleALC/AppleALC-1.4.9-RELEASE.zip)
+    - [AppleALC-1.5.0-DEBUG.zip](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Kexts/AppleALC/AppleALC-1.5.0-DEBUG.zip)
+    - [AppleALC-1.5.0-RELEASE.zip](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Kexts/AppleALC/AppleALC-1.5.0-RELEASE.zip)
   - BT4LEContinuityFixup -- 2020-4-26
     - [BT4LEContinuityFixup-1.1.4-DEBUG.zip](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Kexts/BT4LEContinuityFixup/BT4LEContinuityFixup-1.1.4-DEBUG.zip)
     - [BT4LEContinuityFixup-1.1.4-RELEASE.zip](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Kexts/BT4LEContinuityFixup/BT4LEContinuityFixup-1.1.4-RELEASE.zip)
