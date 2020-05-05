@@ -1,8 +1,11 @@
-- OpenCorePkg -- 2020-5-3
+- OpenCorePkg -- 2020-5-5
   - [OpenCore-0.5.8-DEBUG.zip](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/OpenCorePkg/OpenCore-0.5.8-DEBUG.zip)
   - [OpenCore-0.5.8-Noopt.zip](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/OpenCorePkg/OpenCore-0.5.8-Noopt.zip)
   - [OpenCore-0.5.8-RELEASE.zip](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/OpenCorePkg/OpenCore-0.5.8-RELEASE.zip)
-- CLOVER -- 2020-5-3
+  - [OpenCore-0.5.9-Debug.zip](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/OpenCorePkg/OpenCore-0.5.9-Debug.zip)
+  - [OpenCore-0.5.9-Noopt.zip](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/OpenCorePkg/OpenCore-0.5.9-Noopt.zip)
+  - [OpenCore-0.5.9-Release.zip](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/OpenCorePkg/OpenCore-0.5.9-Release.zip)
+- CLOVER -- 2020-5-5
   - [Clover.app_v1.20.pkg](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Clover/Clover.app_v1.20.pkg)
   - [Clover_r5115.pkg](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Clover/Clover_r5115.pkg)
 - Kexts
@@ -72,7 +75,7 @@
   - VoodooInput -- 2020-4-26
     - [VoodooInput-1.0.5-DEBUG.zip](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Kexts/VoodooInput/VoodooInput-1.0.5-DEBUG.zip)
     - [VoodooInput-1.0.5-RELEASE.zip](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Kexts/VoodooInput/VoodooInput-1.0.5-RELEASE.zip)
-  - VoodooPS2Controller -- 2020-4-23
+  - VoodooPS2Controller -- 2020-5-4
     - [VoodooPS2Controller-2.1.4-DEBUG.zip](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Kexts/VoodooPS2Controller/VoodooPS2Controller-2.1.4-DEBUG.zip)
     - [VoodooPS2Controller-2.1.4-RELEASE.zip](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Kexts/VoodooPS2Controller/VoodooPS2Controller-2.1.4-RELEASE.zip)
   - WhateverGreen -- 2020-5-3
