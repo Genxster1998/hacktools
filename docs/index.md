@@ -112,9 +112,9 @@
   - IOJones
     - [IOJones v1.2.2.dmg](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Software/IOJones/IOJones%20v1.2.2.dmg)
   - IORegistryExplorer
-    - [IORegistryExplorer v3.0.2.dmg](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Software/IORegistryExplorer/IORegistryExplorer v3.0.2.dmg)
+    - [IORegistryExplorer v3.0.2.dmg](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Software/IORegistryExplorer/IORegistryExplorer%20v3.0.2.dmg)
   - MaciASL
-    - [MaciASL v1.5.7.dmg](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Software/MaciASL/MaciASL v1.5.7.dmg)
+    - [MaciASL v1.5.7.dmg](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Software/MaciASL/MaciASL%20v1.5.7.dmg)
   - Mos
     - [Mos v2.4.0.dmg](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Software/Mos/Mos%20v2.4.0.dmg)
   - NoSleep
