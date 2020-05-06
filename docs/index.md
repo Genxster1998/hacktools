@@ -118,7 +118,7 @@
   - Mos
     - [Mos v2.4.0.dmg](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Software/Mos/Mos%20v2.4.0.dmg)
   - NoSleep
-    - [NoSleep v1.1.1.dmg](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Software/NoSleep/NoSleep v1.1.1.dmg)
+    - [NoSleep v1.1.1.dmg](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Software/NoSleep/NoSleep%20v1.1.1.dmg)
   - OpenCore Configurator
     - [OpenCore Configurator v2.0.0.0.dmg](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Software/OpenCore%20Configurator/OpenCore%20Configurator%20v2.0.0.0.dmg)
     - [OpenCore Configurator-v2.1.0.0.dmg](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Software/OpenCore Configurator/OpenCore Configurator-v2.1.0.0.dmg)
