@@ -1,11 +1,11 @@
-- OpenCorePkg -- 2020-5-5
+- OpenCorePkg -- 2020-5-6
   - [OpenCore-0.5.8-DEBUG.zip](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/OpenCorePkg/OpenCore-0.5.8-DEBUG.zip)
   - [OpenCore-0.5.8-Noopt.zip](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/OpenCorePkg/OpenCore-0.5.8-Noopt.zip)
   - [OpenCore-0.5.8-RELEASE.zip](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/OpenCorePkg/OpenCore-0.5.8-RELEASE.zip)
   - [OpenCore-0.5.9-Debug.zip](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/OpenCorePkg/OpenCore-0.5.9-Debug.zip)
   - [OpenCore-0.5.9-Noopt.zip](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/OpenCorePkg/OpenCore-0.5.9-Noopt.zip)
   - [OpenCore-0.5.9-Release.zip](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/OpenCorePkg/OpenCore-0.5.9-Release.zip)
-- CLOVER -- 2020-5-5
+- CLOVER -- 2020-5-6
   - [Clover.app_v1.20.pkg](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Clover/Clover.app_v1.20.pkg)
   - [Clover_r5115.pkg](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Clover/Clover_r5115.pkg)
 - Kexts
@@ -15,10 +15,6 @@
     - [AirportBrcmFixup-2.0.7-DEBUG.zip](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Kexts/AirportBrcmFixup/AirportBrcmFixup-2.0.7-DEBUG.zip)
     - [AirportBrcmFixup-2.0.7-RELEASE.zip](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Kexts/AirportBrcmFixup/AirportBrcmFixup-2.0.7-RELEASE.zip)
   - AppleALC -- 2020-5-4
-    - [AppleALC-1.4.8-DEBUG.zip](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Kexts/AppleALC/AppleALC-1.4.8-DEBUG.zip)
-    - [AppleALC-1.4.8-RELEASE.zip](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Kexts/AppleALC/AppleALC-1.4.8-RELEASE.zip)
-    - [AppleALC-1.4.9-DEBUG.zip](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Kexts/AppleALC/AppleALC-1.4.9-DEBUG.zip)
-    - [AppleALC-1.4.9-RELEASE.zip](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Kexts/AppleALC/AppleALC-1.4.9-RELEASE.zip)
     - [AppleALC-1.5.0-DEBUG.zip](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Kexts/AppleALC/AppleALC-1.5.0-DEBUG.zip)
     - [AppleALC-1.5.0-RELEASE.zip](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Kexts/AppleALC/AppleALC-1.5.0-RELEASE.zip)
   - BT4LEContinuityFixup -- 2020-4-26
