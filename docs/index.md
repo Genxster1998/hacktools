@@ -31,6 +31,7 @@
 - CLOVER -- 2020-5-6
   - [Clover.app_v1.20.pkg](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Clover/Clover.app_v1.20.pkg)
   - [Clover_r5115.pkg](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Clover/Clover_r5115.pkg)
+  - [Clover_r5116.pkg](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Clover/Clover_r5116.pkg)
 - Kexts
   - ATH9KFixup -- 2019-2-16
     - [ATH9KFixup-1.3.3-RELEASE.zip](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Kexts/ATH9KFixup/ATH9KFixup-1.3.3-RELEASE.zip)
@@ -64,7 +65,7 @@
     - [IntelMausi-1.0.2-RELEASE.zip](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Kexts/IntelMausi/IntelMausi-1.0.2-RELEASE.zip)
   - IntelMausiEthernet -- 2020-4-12
     - [IntelMausiEthernet-2.5.1d1.zip](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Kexts/IntelMausiEthernet/IntelMausiEthernet-2.5.1d1.zip)
-  - Lilu -- 2020-4-14
+  - Lilu -- 2020-5-6
     - [Lilu-1.4.4-DEBUG.zip](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Kexts/Lilu/Lilu-1.4.4-DEBUG.zip)
     - [Lilu-1.4.4-RELEASE.zip](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Kexts/Lilu/Lilu-1.4.4-RELEASE.zip)
   - LucyRTL8125Ethernet -- 2020-4-27
