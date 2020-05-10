@@ -1,4 +1,4 @@
-- OpenCorePkg -- 2020-5-8
+- OpenCorePkg -- 2020-5-10
   - [OpenCore-0.0.4-DEBUG.zip](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/OpenCorePkg/OpenCore-0.0.4-DEBUG.zip)
   - [OpenCore-0.0.4-RELEASE.zip](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/OpenCorePkg/OpenCore-0.0.4-RELEASE.zip)
   - [OpenCore-0.5.0-DEBUG.zip](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/OpenCorePkg/OpenCore-0.5.0-DEBUG.zip)
@@ -28,8 +28,9 @@
   - [OpenCore-v0.0.2-RELEASE.zip](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/OpenCorePkg/OpenCore-v0.0.2-RELEASE.zip)
   - [OpenCore-v0.0.3-DEBUG.zip](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/OpenCorePkg/OpenCore-v0.0.3-DEBUG.zip)
   - [OpenCore-v0.0.3-RELEASE.zip](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/OpenCorePkg/OpenCore-v0.0.3-RELEASE.zip)
-- CLOVER -- 2020-5-9
+- CLOVER -- 2020-5-10
   - [Clover.app_v1.20.pkg](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Clover/Clover.app_v1.20.pkg)
+  - [Clover.app_v1.21.pkg](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Clover/Clover.app_v1.21.pkg)
   - [Clover_r5115.pkg](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Clover/Clover_r5115.pkg)
   - [Clover_r5116.pkg](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Clover/Clover_r5116.pkg)
 - Kexts
@@ -60,12 +61,14 @@
     - [HibernationFixup-1.3.3-RELEASE.zip](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Kexts/HibernationFixup/HibernationFixup-1.3.3-RELEASE.zip)
   - IntelBluetoothFirmware -- 2020-4-1
     - [IntelBluetoothFirmware-1.0.3-RELEASE.zip](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Kexts/IntelBluetoothFirmware/IntelBluetoothFirmware-1.0.3-RELEASE.zip)
-  - IntelMausi -- 2020-3-24
+  - IntelMausi -- 2020-5-9
     - [IntelMausi-1.0.2-DEBUG.zip](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Kexts/IntelMausi/IntelMausi-1.0.2-DEBUG.zip)
     - [IntelMausi-1.0.2-RELEASE.zip](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Kexts/IntelMausi/IntelMausi-1.0.2-RELEASE.zip)
+    - [IntelMausi-1.0.3-DEBUG.zip](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Kexts/IntelMausi/IntelMausi-1.0.3-DEBUG.zip)
+    - [IntelMausi-1.0.3-RELEASE.zip](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Kexts/IntelMausi/IntelMausi-1.0.3-RELEASE.zip)
   - IntelMausiEthernet -- 2020-4-12
     - [IntelMausiEthernet-2.5.1d1.zip](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Kexts/IntelMausiEthernet/IntelMausiEthernet-2.5.1d1.zip)
-  - Lilu -- 2020-5-6
+  - Lilu -- 2020-5-9
     - [Lilu-1.4.4-DEBUG.zip](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Kexts/Lilu/Lilu-1.4.4-DEBUG.zip)
     - [Lilu-1.4.4-RELEASE.zip](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Kexts/Lilu/Lilu-1.4.4-RELEASE.zip)
   - LucyRTL8125Ethernet -- 2020-4-27
@@ -79,17 +82,21 @@
   - NoTouchID -- 2019-11-27
     - [NoTouchID-1.0.3-DEBUG.zip](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Kexts/NoTouchID/NoTouchID-1.0.3-DEBUG.zip)
     - [NoTouchID-1.0.3-RELEASE.zip](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Kexts/NoTouchID/NoTouchID-1.0.3-RELEASE.zip)
-  - RTCMemoryFixup -- 2020-4-24
+  - RTCMemoryFixup -- 2020-5-9
     - [RTCMemoryFixup-1.0.5-DEBUG.zip](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Kexts/RTCMemoryFixup/RTCMemoryFixup-1.0.5-DEBUG.zip)
     - [RTCMemoryFixup-1.0.5-RELEASE.zip](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Kexts/RTCMemoryFixup/RTCMemoryFixup-1.0.5-RELEASE.zip)
+    - [RTCMemoryFixup-1.0.6-DEBUG.zip](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Kexts/RTCMemoryFixup/RTCMemoryFixup-1.0.6-DEBUG.zip)
+    - [RTCMemoryFixup-1.0.6-RELEASE.zip](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Kexts/RTCMemoryFixup/RTCMemoryFixup-1.0.6-RELEASE.zip)
   - SystemProfilerMemoryFixup -- 2019-11-27
     - [SystemProfilerMemoryFixup-1.0.0-RELEASE.zip](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Kexts/SystemProfilerMemoryFixup/SystemProfilerMemoryFixup-1.0.0-RELEASE.zip)
   - ThunderboltReset -- 2019-12-2
     - [ThunderboltReset-1.0.0d1-RELEASE.zip](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Kexts/ThunderboltReset/ThunderboltReset-1.0.0d1-RELEASE.zip)
-  - VirtualSMC -- 2020-4-19
+  - VirtualSMC -- 2020-5-9
     - [VirtualSMC-1.1.3-DEBUG.zip](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Kexts/VirtualSMC/VirtualSMC-1.1.3-DEBUG.zip)
     - [VirtualSMC-1.1.3-RELEASE.zip](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Kexts/VirtualSMC/VirtualSMC-1.1.3-RELEASE.zip)
-  - VoodooI2C -- 2020-4-28
+    - [VirtualSMC-1.1.4-DEBUG.zip](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Kexts/VirtualSMC/VirtualSMC-1.1.4-DEBUG.zip)
+    - [VirtualSMC-1.1.4-RELEASE.zip](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Kexts/VirtualSMC/VirtualSMC-1.1.4-RELEASE.zip)
+  - VoodooI2C -- 2020-5-9
     - [VoodooI2C-2.4.2.zip](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Kexts/VoodooI2C/VoodooI2C-2.4.2.zip)
     - [VoodooI2C-Debug-Symbols-2.4.2.zip](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Kexts/VoodooI2C/VoodooI2C-Debug-Symbols-2.4.2.zip)
   - VoodooInput -- 2020-4-26
