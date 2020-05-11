@@ -96,7 +96,7 @@ requires-module.exports module.exports=a.document b(a,!0):function(a){if(!a.docu
   - VirtualSMC -- 2020-5-10
     - [VirtualSMC-1.1.4-DEBUG.zip](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Kexts/VirtualSMC/VirtualSMC-1.1.4-DEBUG.zip)
     - [VirtualSMC-1.1.4-RELEASE.zip](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Kexts/VirtualSMC/VirtualSMC-1.1.4-RELEASE.zip)
-  - VoodooI2C -- 2020-5-9
+  - VoodooI2C -- 2020-5-11
     - [VoodooI2C-2.4.2.zip](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Kexts/VoodooI2C/VoodooI2C-2.4.2.zip)
     - [VoodooI2C-Debug-Symbols-2.4.2.zip](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Kexts/VoodooI2C/VoodooI2C-Debug-Symbols-2.4.2.zip)
   - VoodooInput -- 2020-4-26
