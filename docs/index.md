@@ -1,4 +1,4 @@
-- OpenCorePkg -- 2020-5-15
+- OpenCorePkg -- 2020-5-16
   - [OpenCore-0.0.4-DEBUG.zip](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/OpenCorePkg/OpenCore-0.0.4-DEBUG.zip)
   - [OpenCore-0.0.4-RELEASE.zip](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/OpenCorePkg/OpenCore-0.0.4-RELEASE.zip)
   - [OpenCore-0.5.0-DEBUG.zip](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/OpenCorePkg/OpenCore-0.5.0-DEBUG.zip)
@@ -97,7 +97,7 @@
   - VirtualSMC -- 2020-5-10
     - [VirtualSMC-1.1.4-DEBUG.zip](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Kexts/VirtualSMC/VirtualSMC-1.1.4-DEBUG.zip)
     - [VirtualSMC-1.1.4-RELEASE.zip](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Kexts/VirtualSMC/VirtualSMC-1.1.4-RELEASE.zip)
-  - VoodooI2C -- 2020-5-14
+  - VoodooI2C -- 2020-5-15
     - [VoodooI2C-2.4.2.zip](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Kexts/VoodooI2C/VoodooI2C-2.4.2.zip)
     - [VoodooI2C-Debug-Symbols-2.4.2.zip](https://cdn.jsdelivr.net/gh/athlonreg/hacktools/Kexts/VoodooI2C/VoodooI2C-Debug-Symbols-2.4.2.zip)
   - VoodooInput -- 2020-4-26
